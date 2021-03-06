@@ -1,0 +1,2 @@
+-Crear Repositorio en GIT HUB
+-Crear archivo README para que sepamos de que se trata el reporte
