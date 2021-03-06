@@ -1,2 +1,11 @@
 -Crear Repositorio en GIT HUB
 -Crear archivo README para que sepamos de que se trata el reporte
+
+Negritas
+**HOLA**
+
+[link](url)
+[!imagen1](imagenes/nombreimagen.png)---o la ruta
+
+Proyecto que resuelve
+
